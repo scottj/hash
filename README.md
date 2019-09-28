@@ -8,4 +8,4 @@
 
 ### Screenshot ###
 
-![Screenshot](/images/hash-screenshot.png "hash screenshot")
+![Screenshot](images/hash-screenshot.png "hash screenshot")
